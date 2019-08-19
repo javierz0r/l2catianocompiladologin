@@ -1,7 +1,7 @@
-L2J Server: Login
+L2J Catia: Login
 ===
 
-L2J Server: Login is the authentication server, users are redirected to a game server aferwards.
+L2J Catia Login is the authentication server, users are redirected to a game server aferwards.
 
 ![](./src/main/resources/l2j-server-login-logo_256x256.png)
 
@@ -9,14 +9,14 @@ L2J Server: Login is the authentication server, users are redirected to a game s
 Links
 ---
 
-- [Web Site](http://www.l2jserver.com)
+- [Web Site](http://www.l2catia.tk)
 
-- [Forums](http://www.l2jserver.com/forum/)
+- [Forums](https://www.facebook.com/groups/1742473912655563)
 
-- [Live Support](https://gitter.im/L2J/L2J_Server)
+- [Live Support](http://www.l2catia.tk/contacto)
 
-- [Downloads](http://www.l2jserver.com/#downloads)
+- [Downloads](http://l2catia.tk/descargas)
 
-- [Documentation](https://bitbucket.org/l2jserver/l2j_server/wiki)
+- [Documentation](#)
 
-- [@l2jserver](https://twitter.com/l2jserver)
+- [Facebook](https://www.facebook.com/groups/1742473912655563)
